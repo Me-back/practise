@@ -6,7 +6,7 @@ For Hope Learner To Practise
 第一部分是每个人注册自己的github账户。并通过SSH绑定。然后创建一个库，名字叫做Test。
 我之后会往里面提交两个冲突分支，手动解决分支并合并后将该库的Insight->Network页面截图。
 
-第二部分是将本库内容clone到本地，回退到version 1.0。然后删除掉ToBeDeleted.txt。将上面的截图放进该文件夹。将分支命名为自己的名字，并push回来给我。
+第二部分是将本库内容clone到本地，回退到version 1.0。然后删除掉ToBeDeleted.txt。将上面的截图放进该文件夹。将分支命名为自己的名字，并push到自己的库中，然后pull request给我。
 
 考核考察对git的各类基本操作如添加文件、删除文件、提交修改、版本回退、分支合并、冲突处理和上传下载等。
 
